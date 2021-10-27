@@ -15,7 +15,27 @@ Execute the program
 
 # CODE
 ~~~
-<html></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BASIC HTML TAGs</title>
+</head>
+<body>
+    <p>BASIC HTML TAGS ARE USED HERE</p>
+    <ol>
+        <li>hey</li>
+        <li>hello</li>
+    </ol>
+    <ul>
+        <li>basics</li>
+        <li>hello</li>
+    </ul>
+</body>
+</html>
+
 ~~~
 # OUPUT
-*OUTPUT*
+![SEC](2021-10-27.png)
