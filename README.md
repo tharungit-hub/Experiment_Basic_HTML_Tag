@@ -39,3 +39,7 @@ Execute the program
 ~~~
 # OUPUT
 ![SEC](2021-10-27.png)
+
+# RESULT
+
+webpage using heading, paragraph and list tags are successfully executed.
